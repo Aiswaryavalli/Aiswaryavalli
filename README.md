@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Aiswaryavalli
 - 👀 I’m interested in development
-- 🌱 I’m currently completed by Bachelors
+- 🌱 I have recently completed by Bachelors
 - 💞️ I’m looking to collaborate on JAVA
